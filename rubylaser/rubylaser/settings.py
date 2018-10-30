@@ -25,7 +25,7 @@ SECRET_KEY = ')x1tuf+jsn89c2+!flc(t&8g()&!iq5+fnjg-k@@ean*wur#$z'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["rubylaser-mrkumar.c9users.io", "0.0.0.0:8080"]
 
 
 # Application definition
