@@ -12,7 +12,7 @@ These are the following depedencies you need to have before you could run this:
 * **Other tools** : Apart from this basic stuff , you would need pip3 , pipenv, and virtualenvwrapper.
 
 
-### Installing python 3 in GNU/Linux debian and its derivatives
+### Installing python 3 in Debian GNU/Linux and its derivatives
 
 First confirm that you have python 3 in your system or not :
 
