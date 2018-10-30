@@ -8,6 +8,7 @@ name = "pypi"
 [packages]
 requests = "*"
 django = "*"
+virtualenvwrapper = "*"
 
 [requires]
 python_version = "3.4"
