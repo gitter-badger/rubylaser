@@ -37,3 +37,12 @@ Or if you have some older version distro try this :
 ```
 $ sudo apt-get install python3
 ```
+
+### Installing pip3 in Debian GNU/Linux and its derivatives
+
+After successfully installing python 3 in your system one would need pip3 in their system to install the reset of the depedencies automatically.
+Installation of pip3 is fairly simple as the previous process . Just run the below command:
+
+```
+$ sudo apt install python3-pip3
+```
