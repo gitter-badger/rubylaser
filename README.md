@@ -51,3 +51,43 @@ Installation of pip3 is fairly simple as the previous process . Just run the bel
 ```
 $ sudo apt install python3-pip3
 ```
+
+
+### Setup in macOS X :
+
+macOS X "El Captain" and other more recent versions do not include python 3. To check if you have python 3 or not run this command in your terminal :
+
+```
+python3 -V
+```
+This would give the below output if you haven't worked with python 3 before
+
+```
+-bash: python3: command not found
+```
+
+One could easily install python3 along with pip3 tool from [python.org](https://www.python.org/)
+
+* First download the required installer.
+     1) Go to [https://www.python.org/downloads/](https://www.python.org/downloads/)
+     2) Select the **Download Python 3.7.0** (or above , also the exact minor version number may differ)
+
+* Locate the file using *finder* and double click the package file . Then follow the installation prompts.
+
+One could confirm a successful installation by checking for python 3 :
+
+```
+python3 -V
+```
+
+If successful, one will get a similar output as shown below :
+
+```
+ Python 3.7.0
+```
+
+Also a check for pip 3 installation could be done by below command. This lists the available packages.
+
+```
+pip3 list
+```
