@@ -32,7 +32,7 @@ $ sudo apt install python3
 
 ```
 
-Or if you have some older version of distro try this :
+Or if you have some older version distro try this :
 
 ```
 $ sudo apt-get install python3
