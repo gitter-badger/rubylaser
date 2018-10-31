@@ -12,7 +12,12 @@ These are the following depedencies you need to have before you could run this:
 * **Other tools** : Apart from this basic stuff , you would need pip3 , pipenv, and virtualenvwrapper.
 
 
-### Installing python 3 in Debian GNU/Linux and its derivatives
+### Setup in Debian GNU/Linux and its derivatives:
+
+Running this IRC bot in Debian GNU/Linux or its derivatives highly recommended as it was the OS which was used for its development. Below one could find the step by step instructions on how to setup this bot manually.
+
+
+#### Installing python 3 ( Debian GNU/Linux and its derivatives )
 
 First confirm that you have python 3 in your system or not :
 
@@ -38,7 +43,7 @@ Or if you have some older version distro try this :
 $ sudo apt-get install python3
 ```
 
-### Installing pip3 in Debian GNU/Linux and its derivatives
+#### Installing pip3 ( Debian GNU/Linux and its derivatives )
 
 After successfully installing python 3 in your system one would need pip3 in their system to install the reset of the depedencies automatically.
 Installation of pip3 is fairly simple as the previous process . Just run the below command:
