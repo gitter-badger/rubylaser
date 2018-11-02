@@ -70,7 +70,7 @@ One could easily install python3 along with pip3 tool from [python.org](https://
 
 * First download the required installer.
      1) Go to [https://www.python.org/downloads/](https://www.python.org/downloads/)
-     2) Select the **Download Python 3.7.0** (or above , also the exact minor version number may differ)
+     2) Select the **Download Python 3.7.0** (or above)
 
 * Locate the file using *finder* and double click the package file . Then follow the installation prompts.
 
@@ -91,3 +91,36 @@ Also a check for pip 3 installation could be done by below command. This lists t
 ```
 pip3 list
 ```
+
+### Setup in Microsoft Windows
+
+Use of windows 10 is prefered .Windows does not include python by default but one can easily install it along with pip3 tool from [python.org](https://www.python.org/) .
+
+* Download the required installer :
+       1) Go to [https://www.python.org/downloads/](https://www.python.org/downloads/)
+       2) Select the **Download Python 3.7.1** (or higher)
+
+* Install the by double clicking the downloaded file and follow the installation prompts
+* Be sure to check the labeled "Add Python to PATH"
+
+One can verfiy the installation by entering the following command into the command prompt :
+
+```
+py -3 -V 
+```
+
+The output should be similar to this :
+
+```
+Python 3.7.1
+```
+
+The windows installer comes with pip3 (Python package manager). One can list the installed packages with the below command :
+
+```
+pip3 list
+```
+
+> The installer should install everything needed to run the above command , however if one gets a message that Python cannot be found then s/he may have forgotten to add it in their  
+system path . One can do this by running the installer again , selecting "Modify" and checking the  box labeled "Add python to enviroment variables" on the second page. 
+
