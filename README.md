@@ -100,7 +100,7 @@ Use of windows 10 is prefered .Windows does not include python by default but on
        1) Go to [https://www.python.org/downloads/](https://www.python.org/downloads/)
        2) Select the **Download Python 3.7.1** (or higher)
 
-* Install the by double clicking the downloaded file and follow the installation prompts
+* Install it by double clicking the downloaded file and follow the installation prompts
 * Be sure to check the labeled "Add Python to PATH"
 
 One can verfiy the installation by entering the following command into the command prompt :
