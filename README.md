@@ -1,4 +1,7 @@
 # rubylaser
+
+[![Join the chat at https://gitter.im/Mr-Kumar-Abhishek/rubylaser](https://badges.gitter.im/Mr-Kumar-Abhishek/rubylaser.svg)](https://gitter.im/Mr-Kumar-Abhishek/rubylaser?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This will be a simple IRC bot for managing your channel
 
 ## Setup
