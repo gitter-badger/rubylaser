@@ -97,7 +97,9 @@ pip3 list
 Use of windows 10 is prefered .Windows does not include python by default but one can easily install it along with pip3 tool from [python.org](https://www.python.org/) .
 
 * Download the required installer :
-       1) Go to [https://www.python.org/downloads/](https://www.python.org/downloads/)
+
+       1) Go to https://www.python.org/downloads/
+       
        2) Select the **Download Python 3.7.1** (or higher)
 
 * Install it by double clicking the downloaded file and follow the installation prompts
